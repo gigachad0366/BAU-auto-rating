@@ -17,3 +17,10 @@ options:
 
 Automatic rating script for BAU rating website
 ```
+To install depedencies:
+```pip3 install -r requirements.txt```
+
+---
+
+### How to get the JSESSIONID cookie ?
+After logging in, open the developer panel (F12) and navigate to storage, copy the value for the JSESSIONID key.
