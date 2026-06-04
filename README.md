@@ -1,3 +1,5 @@
+## Im not responsible for any damage to infrastructure or reputation. This is not an exploit, and it should not cause any damage. Use at your own risk.
+
 # BAU-auto-rating
 This is a script for automatically solving the annoying BAU "mandatory survey" that prevents the students from accessing the university's student interface.
 
@@ -24,3 +26,6 @@ To install depedencies:
 
 ### How to get the JSESSIONID cookie ?
 After logging in, open the developer panel (F12) and navigate to storage, copy the value for the JSESSIONID key.
+
+### How to rate each course alone ?
+On the website, navigate to the course you want, then run the script for one course with the stars you want, complete the captcha and so on. You can not choose the stars for each question alone (then why use this).
